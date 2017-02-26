@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[测试]]></title>
+      <url>http://yoursite.com/2017/02/26/%E6%B5%8B%E8%AF%95/</url>
+      <content type="html"><![CDATA[<p>这个是摘要</p>
+<a id="more"></a>
+<h2 id="哲文什么的最没有意思le"><a href="#哲文什么的最没有意思le" class="headerlink" title="哲文什么的最没有意思le"></a>哲文什么的最没有意思le</h2><pre class=" language-java"><code class="language-java">System<span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"这个是要显示的内容"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre>
+]]></content>
+      
+        <categories>
+            
+            <category> 目录一android </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> tag </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[感谢]]></title>
+      <url>http://yoursite.com/2017/02/26/%E6%84%9F%E8%B0%A2/</url>
+      <content type="html"><![CDATA[<p>感谢hexo提供博客架构</p>
+<p>material主题<br><a href="https://material.viosey.com/compose/" target="_blank" rel="external">https://material.viosey.com/compose/</a></p>
+<p>hexo教程</p>
+<p><a href="http://wiki.jikexueyuan.com/project/hexo-document/commands.html" target="_blank" rel="external">http://wiki.jikexueyuan.com/project/hexo-document/commands.html</a></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 这个是什么 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title></title>
+      <url>http://yoursite.com/404.html</url>
+      <content type="html"><![CDATA[<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="back"></script>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[android]]></title>
+      <url>http://yoursite.com/android/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[关于]]></title>
+      <url>http://yoursite.com/about/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+  
+</search>
