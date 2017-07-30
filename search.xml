@@ -47,24 +47,4 @@
     
   
   
-    
-    <entry>
-      <title></title>
-      <url>http://yoursite.com/404.html</url>
-      <content type="html"><![CDATA[<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="back"></script>]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[关于]]></title>
-      <url>http://yoursite.com/about/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[android]]></title>
-      <url>http://yoursite.com/android/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-  
 </search>
